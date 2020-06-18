@@ -1,4 +1,7 @@
 Bier
 Wein
-Nutten
+Joghurt
+Chips
+Mineral
+Red Bull
 
